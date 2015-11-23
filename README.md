@@ -1,5 +1,5 @@
 CEL's Summer of Internet of Things 2015
-#######################################
+=======================================
 
 This repository holds projects done by University of Sydney students.
 
